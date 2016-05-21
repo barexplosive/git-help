@@ -1,1 +1,2 @@
 print("Hello friends")
+Print("Good morning")
