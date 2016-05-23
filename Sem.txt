@@ -1,3 +1,6 @@
 Print("Hello Sem")
 Print("How are you")
+print("i`m fine")
+print("Are you")
 Print("fine")
+
