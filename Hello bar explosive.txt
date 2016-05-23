@@ -1,2 +1,2 @@
-Print("Hello bar explosive")
-Print("Hello everybody")
+Print("Hello bar explosive;")
+Print("Hello everybody;")
