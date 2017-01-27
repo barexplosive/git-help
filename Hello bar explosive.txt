@@ -1,5 +1,0 @@
-Print("Hello bar explosive;")
-Print("Hello everybody;")
-print("hello ma dear friend;)
-
-
